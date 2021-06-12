@@ -1,0 +1,6 @@
+browser->server: HTTP POST WITH JSON https://studies.cs.helsinki.fi/exampleapp/spa/new_note
+server-->browser: 201 Created
+
+note over browser:
+the page does not reload and the created note is displayed in the browser
+
